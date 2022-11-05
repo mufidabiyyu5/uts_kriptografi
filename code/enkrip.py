@@ -18,7 +18,7 @@ def generateKey(string, key):
 
 
 def shiftcipher(string, key):
-    """Enkripsi dengan Caesar Cipher
+    """Enkripsi dengan Shift Cipher
     """
     key = len(key)
     cipher_text = []
